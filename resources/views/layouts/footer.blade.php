@@ -87,7 +87,7 @@
             </ul>
         </div>
     </div>
-    <p class="w-25 w4/5 pb-3 m-auto text-xs text-gray-100 pt-6">
+    <p class="w-25 w4/5 pb-3 m-auto text-xs text-gray-100 pt-6 ml-48">
         Coppyright 2017-2021 Code with Nghi. All Rights Reserved.
     </p>
 </footer>

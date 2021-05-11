@@ -5,12 +5,12 @@
 	
 	<style>
         .horizontalweatherForecast {
-            width:820px;
+            width: 45%;
             height:120px;
           
         }
         .verticalweatherForecast {
-            width:820px;
+            width: 45%;
             height:380px;
         }
 
